@@ -1,2 +1,3 @@
 Basics of Electronics
 Silicon, Germanium
+formation of bandgaps
